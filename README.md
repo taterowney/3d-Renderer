@@ -1,2 +1,2 @@
-# 3d-Renderer
-A numpy-based 3d renderer I created from scratch while bored
+# 3d Renderer
+I built this while jetlagged and waiting for Harvard Model UN in Boston to start, so expect bugs.
